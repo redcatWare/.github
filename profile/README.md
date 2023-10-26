@@ -20,7 +20,7 @@ We also have a blog page for updates [here](https://updates.redcatware.net/), We
 - [redcatOS Gaming](https://os.redcatware.net): An easy to use, gamer-friendly, gaming distro using XFCE, Proton, Lutris, and Steam for gamers.
 - [Project Desktop](https://lion.redcatware.net): An extremely modular desktop environment made for redcatOS 1.7 - Rocky. (NOTE: Rocky is not the final name for this version of redcatOS.)
 - [Project GLaunch](https://launcher.redcatware.net): An extremely modular game launcher for redcatOS Gaming 1.7 - ReMix. (NOTE: ReMix is not the final name for this version of redcatOS Gaming.)
-- [Postcat [INVITE-ONLY PRE-ALPHA]](https://redcatware.net): The next-generation social media platform combining your favorite platforms into one mega-platform.
+- [Nexus Social [INVITE-ONLY PRE-ALPHA]](https://redcatware.net): The next-generation social media platform combining your favorite platforms into one mega-platform.
 
 ### We will be accepting donations in the future. On the following platforms:
 - Patreon (redcatOS Plus, No ISOs, only keys)
