@@ -15,8 +15,9 @@ You can learn more about us by visiting our [website](https://redcatware.net/). 
 We also have a blog page for updates [here](https://updates.redcatware.net/), We also have a Medium [page](https://redcatware.medium.com/)	
 
 ### Some of our projects include:	
-- [redcatOS](https://os.redcatware.net/): An easy to use, beginner-friendly, heavily customizable, subsystem-centric distro for those from different systems.	
-- [redcatOS Gaming](https://os.redcatware.net): An easy to use, gamer-friendly, gaming distro using XFCE, Proton, Lutris, and Steam for gamers.	
-- [Project Desktop](https://lion.redcatware.net): An extremely modular desktop environment made for redcatOS 1.7 - Rocky. (NOTE: Rocky is not the final name for this version of redcatOS.)	
-- [Project GLaunch](https://launcher.redcatware.net): An extremely modular game launcher for redcatOS Gaming 1.7 - ReMix. (NOTE: ReMix is not the final name for this version of redcatOS Gaming.)	
+- [redcatOS](https://redcatos.redcatware.net/): An easy to use, beginner-friendly, heavily customizable, subsystem-centric distro for those from different systems.	
+- [redcatOS Gaming](https://redcatos.redcatware.net): An easy to use, gamer-friendly, gaming distro using XFCE, Proton, Lutris, and Steam for gamers.	
+- Puma Desktop: An extremely modular desktop made for LuminexOS.
+- Cheetah Launcher: An extremely modular game launcher for redcatOS, Windows, Linux, & macOS.
 - [Nexus Social [INVITE-ONLY PRE-ALPHA]](https://redcatware.net): The next-generation social media platform combining your favorite platforms into one mega-platform.
+- 
