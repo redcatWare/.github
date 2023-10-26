@@ -1,6 +1,8 @@
 # redcatWare LLC.
 
-redcatWare LLC. is a development and hardware team owned by Redcat Nexus Group centered around creating free and cheap, innovative, fun technology for the future. We have a diverse, unique range of projects. We have projects relating to software, hardware & software development, multimedia, gaming, and communities.	
+redcatWare LLC. is a development and hardware team owned by Redcat Nexus Group centered around creating free and cheap, innovative, fun technology for the future. We have a diverse, unique range of projects. We have projects relating to software, hardware & software development, multimedia, gaming, and communities.
+
+![redcatWare Logo](https://i.imgur.com/u6GWKiL.png)	
 
 ### As a team we have four core values:	
 - Mostly Free Software	
