@@ -17,7 +17,7 @@ We also have a blog page for updates [here](https://updates.redcatware.net/), We
 ### Some of our projects include:	
 - [redcatOS](https://os.redcatware.net/): An easy to use, beginner-friendly, heavily customizable, subsystem-centric distro for those from different systems.	
 - [redcatOS Gaming](https://os.redcatware.net): An easy to use, gamer-friendly, gaming distro using XFCE, Proton, Lutris, and Steam for gamers.	
-- Puma Desktop: An extremely modular desktop made for LuminexOS.
-- Cheetah Launcher: An extremely modular game launcher for redcatOS, Windows, Linux, & macOS.
+- Siamese Desktop: An extremely modular desktop made for LuminexOS.
+- Puma Launcher: An extremely modular game launcher for redcatOS, Windows, Linux, & macOS.
 - [Nexus Social [INVITE-ONLY PRE-ALPHA]](https://redcatware.net): The next-generation social media platform combining your favorite platforms into one mega-platform.
 - 
