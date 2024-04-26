@@ -10,7 +10,7 @@ redcatWare LLC. is a development and hardware team owned by Redcat Nexus Group c
 - Security	
 - Cheap Technology	
 
-You can learn more about us by visiting our [website](https://redcatware.net/). We also have a [Discord server](https://discord.gg/PK378PCQrz) if you would like to talk to us.	
+You can learn more about us by visiting our [website](https://redcatware.net/). We also have a [Discord server](https://discord.redcatware.net/) if you would like to talk to us.	
 
 We also have a blog page for updates [here](https://updates.redcatware.net/), We also have a Medium [page](https://redcatware.medium.com/)	
 
